@@ -69,7 +69,7 @@ function palindromeAllFormats(date){
             break;
         }
     }
-    return `Your Birthday is Palindrome : ${output}`;
+    return `Palindrome : ${output}`;
 }
 
 var date = {
